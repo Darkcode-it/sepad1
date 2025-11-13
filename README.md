@@ -12,7 +12,7 @@
 
 **Sipad - A comprehensive Progressive Web App for real-time fleet management with admin panels, interactive maps, and advanced analytics.**
 
-[🚀 Live Demo](https://your-demo-url.com) • [📖 Documentation](#documentation) • [🛠️ Installation](#installation)
+[🚀 Live Demo](https://sipad.vercel.app/) 
 
 </div>
 
